@@ -36,45 +36,45 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Automatic notes for in-person meetings
+    description                           : Just press record on your phone. AI takes care of notes so you can be present.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Transcripts, summaries, & action items
+    description                           : Get a full picture of your meetings and recall key details afterward.
+    fontawesome_icon_name                 : feather
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Your personal meeting assistant
+    description                           : Accurate AI means high quality results
+    fontawesome_icon_name                 : handshake
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Turbocharge your productivity
+    description                           : Eliminate tedious notetaking and share accurate notes with your colleagues.
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Impress your boss
+    description                           : Use Scribbe to show you're up to speed on implementing the newest technologies
+    fontawesome_icon_name                 : award
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Unlock insights
+    description                           : Turn meetings into actionable insights you can benefit from
+    fontawesome_icon_name                 : lightbulb
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  # - title                                 : Smart App Banner
+  #   description                           : Display a smart app banner on iOS devices.
+  #   fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  # - title                                 : Social Links
+  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  # - title                                 : FontAwesome Support
+  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  # - title                                 : # New Feature Title
+  #   description                           : # New Feature Description
+  #   fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
