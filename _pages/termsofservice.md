@@ -25,7 +25,7 @@ Unless otherwise indicated, the App is our proprietary property and all source c
 We reserve the right to remove a user for any reason, subject to our discretion. As a user, you agree not to:
 
 1. Systematically retrieve data or other content from the App to create or compile, directly or indirectly, a collection, compilation, database, or directory.
-2. Circumvent, disable, or otherwise interfere with security-related features of the Site.
+2. Circumvent, disable, or otherwise interfere with security-related features of the App.
 3. Mislead us or other users.
 4. Engage in any automated use of the system, such as data mining, robots, or similar data gathering tools.
 5. Copy or adapt the App's software.
@@ -38,7 +38,7 @@ We reserve the right to remove a user for any reason, subject to our discretion.
 ## 3.0 Copyright
 We respect the intellectual property rights of others. If you believe that anything in Scribbe infringes upon any copyright you own or control, please immediately notify us. A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification. Please be advised that pursuant to federal law you may be held liable for damages if you make material misrepresentations in a Notification. Thus, if you are not sure that material located on Scribbe infringes your copyright, you should consider first contacting an attorney.
 
-We do not assert any ownership over your uploads. You retain full ownership of all of your uploads and any intellectual property rights or other proprietary rights associated them. We have the right, in our sole and absolute discretion, to pre-screen or delete any uploads at any time and for any reason, without notice. We have no obligation to monitor your uploads and currently do not monitor them systematically
+We do not assert any ownership over your uploads. You retain full ownership of all of your uploads and any intellectual property rights or other proprietary rights associated them. We have the right, in our sole and absolute discretion, to pre-screen or delete any uploads at any time and for any reason, without notice. We have no obligation to monitor your uploads and currently do not monitor them systematically.
 
 <br>
 
