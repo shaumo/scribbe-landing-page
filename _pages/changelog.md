@@ -11,7 +11,7 @@ include_in_header: true
 
 We're excited to launch Scribbe, your AI-powered audio assistant! This first release includes the following features:
 
-Core Functionality
+#### Core Functionality
 
 - Audio upload: Users can easily upload audio files to the app
 - AI-generated summaries: Get concise overviews of your audio content
@@ -19,7 +19,7 @@ Core Functionality
 - Notes: AI generated detailed notes from your audio
 - Action items: Automatically extracted tasks and to-dos
 
-User Experience
+#### User Experience
 
 Easy-to-navigate results page displaying summaries, transcripts, notes, and action items
 Secure cloud storage for your audio files and generated content
